@@ -40,7 +40,7 @@ team towards an objective, even if sometimes unwillingly.
 #### Apple Online Sales Support, Barcelona, Spain (Aug 2012 - Jan 2013)
 
 Providing sales support meant listening to customers requirements and
-desires, analising their needs and producing apropriate advice for their
+desires, analysing their needs and producing apropriate advice for their
 specific needs.
 
 ## Hobbies
