@@ -1,3 +1,5 @@
+| [Skills](#Skills) | [Projects](#Projects) | [Education](#Education) | [Experience](#Experience) | [Hobbies](#Hobbies) | [LinkedIn](https://www.linkedin.com/in/alastair-gilles-3a1761125/) |
+
 # Alastair Gilles
 
 I am a software developer who finally decided to take the leap of turning a
@@ -15,8 +17,6 @@ and confidently.
 
 As a developer I'm ready to bring an enthusiasm for different ideas and 
 productive teamwork to a new industry.
-
-| [Skills](#Skills) | [Projects](#Projects) | [Education](#Education) | [Experience](#Experience) | [Hobbies](#Hobbies) | [LinkedIn](https://www.linkedin.com/in/alastair-gilles-3a1761125/) |
 
 ## Skills 
 
@@ -37,7 +37,7 @@ clarity.
 ## Projects
 
 | Name | Description | Technologies Used |
-|------|-------------|-------------------|
+|:----:|-------------|:-----------------:|
 | [Mind Over Cells](https://github.com/Hyan18/the-css) | An implementation of Conway's Game of Life | JavaScript MERN - MongoDB, Express, React, Node.js | 
 | [Acebook](https://github.com/ffgi-es/acebook_irrelevant_pests) | A facebook clone with users, posts, photos and live chat | Ruby on Rails, JavaScript |
 | [Bowling Scorecard](https://github.com/ffgi-es/bowling-challenge) | A single page app to track a 10 pin bowling score | JavaScript |
@@ -47,7 +47,7 @@ clarity.
 
 #### Makers (Oct 2019 - Feb 2020)
 
-Coding Bootcamp
+*Coding Bootcamp*
 
 While I learnt Ruby and JavaScript on the course, the true value of Makers
 for me was the processes that I learnt, such as test driven development and
@@ -64,7 +64,7 @@ realiable, maintainable code in any language or framework.
 
 #### International House
 
-CELTA (Certificate of English Language Teaching to Adults)
+*CELTA (Certificate of English Language Teaching to Adults)*
 
 A teaching qualification that gave me many skills to work with people smoothly
 and efficiently in teams.
@@ -76,7 +76,7 @@ and efficiently in teams.
 
 #### The University of Manchester (Sep 2009 - Jun 2012)
 
-Physics with Theoretical Physics: BSc
+*Physics with Theoretical Physics: BSc*
 
 A degree that taught me to analyse and breakdown any problem to basic principles. This
 is also where I first discovered coding and worked on multiple projects:
@@ -87,9 +87,9 @@ is also where I first discovered coding and worked on multiple projects:
 
 #### Woodbridge School (2002 - 2009)
 
-A-Levels: Maths (A), Further Maths (A), Physics (A) and Chemistry (B)
+*A-Levels: Maths (A), Further Maths (A), Physics (A) and Chemistry (B)*
 
-GCSEs: 3 A\*s, 5 As and 2 Bs
+*GCSEs: 3 A\*s, 5 As and 2 Bs*
 
 ## Experience
 
