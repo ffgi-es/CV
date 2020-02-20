@@ -95,19 +95,21 @@ is also where I first discovered coding and worked on multiple projects:
 
 #### English as a Second Language Teacher, Spain (Sep 2013 - Jun 2019)
 
-I taught in a variety of contexts ranging from young children in after
-school academies to adults in company classes. This diverse nature and
-varying personal goals of students required the tailoring of materials
-and techniques to suit the indivdual needs of students so as to get the
-best possible results.
+I managed classes of 3 to 12 students over a variety of ages;
+creating lesson plans and materials to adapt to students’ changing needs.
+I both led and worked as part of a team to create an environment in which
+people felt comfortable and involved while providing clear, concise
+instruction and feedback.
 
-Teaching has also provided experience of managing people and guiding a
-team towards an objective, even if sometimes unwillingly.
+This experience has enabled me to become a key team player in any team,
+contributing and listening to others to move towards a goal. I am able
+to convey my thoughts and ideas in a precise manner with consideration
+for those I am communicating with.
 
 #### Apple Online Sales Support, Barcelona, Spain (Aug 2012 - Jan 2013)
 
 Providing sales support meant listening to customers requirements and
-desires, analising their needs and producing apropriate advice for their
+desires, analising their needs and producing appropriate advice for their
 specific needs.
 
 ## Hobbies
