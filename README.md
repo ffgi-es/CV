@@ -33,11 +33,11 @@ productive teamwork to a new industry.
 - **Methodical** I follow clear, reasoned processes to ensure that work I do
 is efficient, directed and justified.
 - **Clear Communication** Teaching students in a language that is not their own
-means I well versed in expressing myself in a manner that is easily understood
+means I am well versed in expressing myself in a manner that is easily understood
 and considerate other party's perspectives.
 - **Learning mindset** Discovering what is unknown to me and broadening my
 perspective has been a major drive for me with coding. I have enjoyed learning
-new languages as new way to look at and express a problem.
+new languages as new ways to look at and express a problem.
 - **Mathematically minded** Having studied physics I have an eye for maths and
 tend to analyse and look patterns in anything I undertake. This also drives me
 to look for efficiency and elegance in a solution to improve performance and
