@@ -1,8 +1,16 @@
-| [Skills](#Skills) | [Projects](#Projects) | [Education](#Education) | [Experience](#Experience) | [Hobbies](#Hobbies) | [LinkedIn](https://www.linkedin.com/in/alastair-gilles-3a1761125/) |
-
 <h1 align="center">
 Alastair Gilles
 </h1>
+
+<p align="center">
+  | <a href="#Skills">Skills</a>
+  | <a href="#Projects">Projects</a>
+  | <a href="#Education">Education</a>
+  | <a href="#Experience">Experience</a>
+  | <a href="#Hobbies">Hobbies</a>
+  | <a href="https://www.linkedin.com/in/alastair-gilles-3a1761125/">LinkedIn</a>
+  |
+</p>
 
 I am a software developer who finally decided to take the leap of turning a
 hobby into a career. Over the ten years since I first learnt to code, I have
