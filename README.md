@@ -1,9 +1,11 @@
 | [Skills](#Skills) | [Projects](#Projects) | [Education](#Education) | [Experience](#Experience) | [Hobbies](#Hobbies) | [LinkedIn](https://www.linkedin.com/in/alastair-gilles-3a1761125/) |
 
-# Alastair Gilles
+<h1 align="center">
+Alastair Gilles
+</h1>
 
 I am a software developer who finally decided to take the leap of turning a
-hobby into a career. Over the ten years since I first learned to code, I have
+hobby into a career. Over the ten years since I first learnt to code, I have
 dabbled in many programming languages with differing, interesting paradigms.
 This history of often starting afresh and applying previous knowledge to a new
 environment means I am a fast learning, adaptable developer who isn't daunted
@@ -32,7 +34,11 @@ new languages as new way to look at and express a problem.
 tend to analyse and look patterns in anything I undertake. This also drives me
 to look for efficiency and elegance in a solution to improve performance and
 clarity.
-- **Technical Skills** 
+- **Technical Skills** Learning different languages to varying degrees as well as
+using specialised libraries and frameworks means I have experience picking up new
+technologies and have a variety of experience to fallback on when it comes to
+approaching a new problem. Troubleshooting and debugging a problem are things that
+I am very comfortable with having done it in a variety of differet contexts.
 
 ## Projects
 
