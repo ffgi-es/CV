@@ -75,6 +75,7 @@ realiable, maintainable code in any language or framework.
 - Object Oriented Design
 - Continuous Integration and automated deployment
 - Ruby, JavaScript and accompanying techs and frameworks
+___
 
 #### International House
 
@@ -87,6 +88,7 @@ and efficiently in teams.
 - Presenting information in a planned, structured, and engaging way.
 - Considerate error assessment and correction with specific and useful feedback.
 - Conveying information in clear, concise way to avoid confusion or misundestanding.
+___
 
 #### The University of Manchester (Sep 2009 - Jun 2012)
 
@@ -98,6 +100,7 @@ is also where I first discovered coding and worked on multiple projects:
 - An interactive random maze generator in *C++*
 - A simulation of a quantum electron in *Python*
 - Processing and analysing data from radio telescopes at Jodrell Bank in *C++*
+___
 
 #### Woodbridge School (2002 - 2009)
 
