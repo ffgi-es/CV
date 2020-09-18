@@ -52,6 +52,7 @@ I am very comfortable with having done it in a variety of differet contexts.
 
 | Name | Description | Technologies Used |
 |:----:|-------------|:-----------------:|
+| [slowSilver](https://github.com/ffgi-es/slowSilver) | A simple compiler for a basic functional language | Ruby, NASM |
 | [Mind Over Cells](https://github.com/Hyan18/the-css) | An implementation of Conway's Game of Life | JavaScript MERN - MongoDB, Express, React, Node.js | 
 | [Acebook](https://github.com/ffgi-es/acebook_irrelevant_pests) | A facebook clone with users, posts, photos and live chat | Ruby on Rails, JavaScript |
 | [Bowling Scorecard](https://github.com/ffgi-es/bowling-challenge) | A single page app to track a 10 pin bowling score | JavaScript |
@@ -109,6 +110,27 @@ ___
 *GCSEs: 3 A\*s, 5 As and 2 Bs*
 
 ## Experience
+
+#### Junior Software Developer, *ClearBank*, London, UK (Mar 2020 - Present)
+
+Working as part of a team of four developers, I contributed to the design and
+implementation of the core payment flow for a new multi-currency payment scheme
+for *ClearBank*. This involved collaborating closely with other teams working on other
+parts of the multi-currency project as well as with business product owners,
+in both one-to-one demos and larger presentations.
+
+As a team we consistently delivered on what we promised in sprints while handling
+any unforeseen work; promoting pair programming and test driven development.
+Within the team I assumed the role of a security champion, assessing and approving
+pull requests both within the team and across the IT innovation department as well
+as participating in the security chapter to discuss our security strategy.
+
+During my time at *ClearBank* I have gained exerience with:
+- C#
+- Azure
+- Terraform
+- Test Driven Development
+- Domain Driven Development
 
 #### English as a Second Language Teacher, Spain (Sep 2013 - Jun 2019)
 
